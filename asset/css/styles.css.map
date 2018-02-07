@@ -1,0 +1,7 @@
+{
+"version": 3,
+"mappings": "AAAA,woBASsB,CACtB,YAAY,CAAE,cAAc,CAC5B,aAAa,CAAE,cAAc,CAC7B,WAAW,CAAE,cAAc,CAC3B,YAAY,CAAE,cAAc,CAC5B,UAAU,CAAE,sBAAsB,CCdlC,OAAO,CACL,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,GAAG,CAErB,kBAAU,CACR,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,MAAM,CCN5B,QAAQ,CACN,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,IAAI,CCFxB,OAAO,CACL,MAAM,CAAE,IAAI,CACZ,gBAAgB,CAAE,KAAK",
+"sources": ["style.scss","home/header.scss","home/content.scss","home/footer.scss"],
+"names": [],
+"file": "styles.css"
+}
