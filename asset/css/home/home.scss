@@ -1,0 +1,58 @@
+/*______________________________________________________________________HEADER*/
+.header {
+  height: 15vh;
+
+  .header-menu {
+    height: 10vh;
+
+    .header-menu--colonne {
+
+      .header-menu--colonne---item {
+        text-align: center;
+        padding-top: 2vh;
+
+        :hover{
+          text-decoration: none;
+        }
+      }
+    }
+  }
+}
+/*____________________________________________________________________//HEADER*/
+/*_____________________________________________________________________CONTENT*/
+
+.content {
+  height: 80vh;
+
+  .content-brand {
+    height: 35vh;
+
+    .content-brand--colonne---logo {
+      height: 25vh;
+        img {
+          max-height: 25vh;
+        }
+    }
+
+    .content-brand--colonne---subtitle {
+      height: 6vh;
+      text-align: center;
+      padding-top: 4vh;
+    }
+  }
+
+  .content-search {
+  }
+}
+/*___________________________________________________________________//CONTENT*/
+/*______________________________________________________________________FOOTER*/
+
+.footer {
+  height: 5vh;
+
+  .footer-cgu {
+    height: 5vh;
+    text-align: center;
+  }
+}
+/*____________________________________________________________________//FOOTER*/

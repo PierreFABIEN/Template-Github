@@ -1,4 +1,4 @@
-$(function() {
+/*$(function() {
 
   // Init ScrollMagic Controller
   var scrollMagicController = new ScrollMagic();
@@ -9,4 +9,4 @@ $(function() {
 // Add debug indicators fixed on right side
  scene.addIndicators();
 
-});
+});*/
