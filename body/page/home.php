@@ -5,7 +5,7 @@
     <div class="col-6 mx-auto header-menu">
       <div class="row header-menu--colonne">
         <div class="col-6 header-menu--colonne---item">
-          <a href="url">Blog</a>
+          <a href="Blog.php">Blog</a>
         </div>
         <div class="col-6 header-menu--colonne---item">
           <a href="url">Contact</a>

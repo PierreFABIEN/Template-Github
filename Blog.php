@@ -11,7 +11,7 @@
    <body>
 <!--____________________________________________________________________________BODY-->
      <?php
-     include __DIR__.'/body/page/secondpage.php';
+     include __DIR__.'/body/page/blog.php';
      ?>
 
      <?php
