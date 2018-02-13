@@ -1,12 +1,11 @@
-/*$(function() {
+$(function() {
 
-  // Init ScrollMagic Controller
-  var scrollMagicController = new ScrollMagic();
+    var controller = new ScrollMagic.Controller();
 
-
-
-
-// Add debug indicators fixed on right side
- scene.addIndicators();
-
-});*/
+    var ourScene4 = new ScrollMagic.Scene({
+        triggerElement: 'body',
+        triggerHook: 0.7
+    })
+    .setClassToggle('body', 'fade-in')
+    .addTo(controller);
+});

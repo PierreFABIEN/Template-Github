@@ -1,4 +1,4 @@
-<div class="container-fluid body">
+<div id="gradient" class="container-fluid body-home">
 
   <!--_________________________________________________________________Header-->
   <div class="col-12 header">
