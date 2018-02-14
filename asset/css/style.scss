@@ -14,19 +14,47 @@ margin-left: 0px !important;
 margin-right: 0px !important;
 box-sizing: content-box !important;
 }
-body {
-  opacity: 0;
-  transition: all 1s linear;
-}
 
-body.fade-in {
-  opacity: 1;
-}
+/*______________________________________________________________________________Variable:*/
+@import 'variable.scss';
+/*______________________________________________________________________________fin Variable:*/
 
 /*________________________________________________________________ScrollMagic:*/
-/*@import 'scrollmagic.scss';*/
+@import 'component/scrollmagic.scss';
 /*________________________________________________________________ScrollMagic:*/
+
+/*______________________________________________________________________________Boutton:*/
+@import 'component/boutton.scss';
+/*______________________________________________________________________________fin Boutton:*/
+
+
+
+
+
+
+
+
+
+
 
 /*______________________________________________________________________________Home:*/
 @import 'home/home.scss';
+@import 'component/home-header.scss';
+@import 'component/home-content.scss';
+@import 'component/home-footer.scss';
 /*______________________________________________________________________________fin Home:*/
+
+
+
+
+
+/*______________________________________________________________________________Blog:*/
+@import 'blog/blog.scss';
+
+@import 'component/blog-header.scss';
+@import 'component/blog-categorie.scss';
+@import 'component/blog-footer.scss';
+/*______________________________________________________________________________fin Blog:*/
+/*______________________________________________________________________________Blog:*/
+
+/*______________________________________________________________________________fin Blog:*/

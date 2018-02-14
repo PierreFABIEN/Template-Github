@@ -1,26 +1,22 @@
-<div class="container-fluid body">
+<div class="container-fluid blog-body">
 
   <!--_________________________________________________________________Header-->
-  <div class="col-12 header">
-    <div class="col-6 mx-auto header-menu">
-      <div class="row header-menu--colonne">
-        <div class="col-6 header-menu--colonne---item">
-          <a href="Home.php">Accueil</a>
-        </div>
-        <div class="col-6 header-menu--colonne---item">
-          <a href="url">Contact</a>
-        </div>
-      </div>
-    </div>
-  </div>
+    <?php
+    include __DIR__.'/../component/blog-header.php';
+    ?>
+
   <!--_____________________________________________________________fin Header-->
   <!--________________________________________________________________CONTENT-->
+  <?php
+  include __DIR__.'/../component/blog-categorie.php';
+  ?>
+
 
   <!--______________________________________________________________//CONTENT-->
   <!--_________________________________________________________________FOOTER-->
-  <div class="col-12 footer">
-    <div class="col-3 mx-auto footer-cgu">
-          <a href="url">CGU</a>
+  <div class="col-12 blog-footer">
+    <div class="col-3 mx-auto blog-footer-cgu">
+      <a class="btn" href="url">CGU</a>
     </div>
   </div>
   <!--_______________________________________________________________//FOOTER-->

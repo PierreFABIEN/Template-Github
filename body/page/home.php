@@ -1,32 +1,32 @@
-<div id="gradient" class="container-fluid body-home">
+<div id="gradient" class="container-fluid home-body">
 
   <!--_________________________________________________________________Header-->
-  <div class="col-12 header">
-    <div class="col-6 mx-auto header-menu">
-      <div class="row header-menu--colonne">
-        <div class="col-6 header-menu--colonne---item">
-          <a href="Blog.php">Blog</a>
+  <div class="col-12 home-header">
+    <div class="col-12 mx-auto home-header-menu">
+      <div class="row home-header-menu--colonne">
+        <div class="col-6 home-header-menu--colonne---item">
+          <a class="btn" href="Blog.php">Blog</a>
         </div>
-        <div class="col-6 header-menu--colonne---item">
-          <a href="url">Contact</a>
+        <div class="col-6 home-header-menu--colonne---item">
+          <a class="btn" href="url">Contact</a>
         </div>
       </div>
     </div>
   </div>
   <!--_____________________________________________________________fin Header-->
   <!--________________________________________________________________CONTENT-->
-  <div class="col-12 content">
-    <div class="col-12 content-brand">
-      <div class="row content-brand--colonne">
-        <div class="col-12 content-brand--colonne---logo">
+  <div class="col-12 home-content">
+    <div class="col-12 home-content-brand">
+      <div class="row home-content-brand--colonne">
+        <div class="col-12 home-content-brand--colonne---logo">
           <img class="rounded mx-auto d-block img-fluid" src="asset/img/logo.png" alt="logo">
         </div>
-        <div class="col-12 mx-auto content-brand--colonne---subtitle">
+        <div class="col-12 mx-auto home-content-brand--colonne---subtitle">
           Lorem ipsum dolor sit amet.
         </div>
       </div>
     </div>
-    <div class="col-12 content-search">
+    <div class="col-12 home-content-search">
       <div class="col-8 col-sm-6 mx-auto">
         <div class="input-group">
           <input type="text" class="form-control" placeholder="Search for...">
@@ -59,9 +59,9 @@
   </div>
   <!--______________________________________________________________//CONTENT-->
   <!--_________________________________________________________________FOOTER-->
-  <div class="col-12 footer">
-    <div class="col-3 mx-auto footer-cgu">
-          <a href="url">CGU</a>
+  <div class="col-12 home-footer">
+    <div class="col-3 mx-auto home-footer-cgu">
+      <a class="btn" href="url">CGU</a>
     </div>
   </div>
   <!--_______________________________________________________________//FOOTER-->
