@@ -1,23 +1,12 @@
-.blog-header {
+.blog-footer {
   height: 10vh;
-  background-color: $couleur;
 
-  .blog-header-menu {
+  .blog-footer-cgu {
     height: 10vh;
+    text-align: center;
 
-    .blog-header-menu--colonne {
-      .blog-header-menu--colonne---item {
-        text-align: center;
-        padding-top: 2vh;
-
-        img {
-          height: 7vh;
-        }
-
-        :hover {
-          text-decoration: none;
-        }
-      }
+    :hover {
+      text-decoration: none;
     }
   }
 }

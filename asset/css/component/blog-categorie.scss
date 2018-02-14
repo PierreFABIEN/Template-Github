@@ -2,8 +2,9 @@
 
 
 .blog-categorie {
-  background-color: black;
+  background-color: $couleur;
   z-index: 0;
+  margin-bottom: 5vh;
 
   .blog-categorie-menu {
     .blog-categorie-menu--colonne {
@@ -15,7 +16,7 @@
         }
       }
 
-      .blog-categorie-menu--colonne---item- {
+      .blog-categorie-menu--colonne---item----box {
         text-align: center;
         height: 5vh;
         display: block;
@@ -26,8 +27,8 @@
         color: white;
         font-size: 14px;
         text-align: center;
-        border: solid $couleur 1px;
         border-radius: 5px;
+        margin-top: 5px;
 
         &:after {
           position: absolute;

@@ -1,18 +1,9 @@
 <div id="gradient" class="container-fluid home-body">
 
   <!--_________________________________________________________________Header-->
-  <div class="col-12 home-header">
-    <div class="col-12 mx-auto home-header-menu">
-      <div class="row home-header-menu--colonne">
-        <div class="col-6 home-header-menu--colonne---item">
-          <a class="btn" href="Blog.php">Blog</a>
-        </div>
-        <div class="col-6 home-header-menu--colonne---item">
-          <a class="btn" href="url">Contact</a>
-        </div>
-      </div>
-    </div>
-  </div>
+  <?php
+  include __DIR__.'/../component/home-header.php';
+  ?>
   <!--_____________________________________________________________fin Header-->
   <!--________________________________________________________________CONTENT-->
   <div class="col-12 home-content">
@@ -59,11 +50,9 @@
   </div>
   <!--______________________________________________________________//CONTENT-->
   <!--_________________________________________________________________FOOTER-->
-  <div class="col-12 home-footer">
-    <div class="col-3 mx-auto home-footer-cgu">
-      <a class="btn" href="url">CGU</a>
-    </div>
-  </div>
+  <?php
+  include __DIR__.'/../component/home-footer.php';
+  ?>
   <!--_______________________________________________________________//FOOTER-->
 
 </div>
