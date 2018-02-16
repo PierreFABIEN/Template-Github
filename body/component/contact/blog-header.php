@@ -40,14 +40,14 @@
       <div class="col-12 blog-side-bar-header--menu---box">
         <a href="#vedette" class="col-10 mx-auto button-menu draw-border">En vedette</a>
       </div>
-      <div class="col-12 blog-side-bar-header--menu---box">
+      <div class="col-12">
         <a href="#pluslus" class="col-10 mx-auto button-menu draw-border">Articles les plus lus</a>
       </div>
-      <div class="col-12 blog-side-bar-header--menu---box">
+      <div class="col-12">
         <a href="#top10" class="col-10 mx-auto button-menu draw-border">Top 10</a>
       </div>
-      <div class="col-12 blog-side-bar-header--menu---box">
-        <div class="row blog-side-bar-header--menu---box----colonne">
+      <div class="col-12">
+        <div class="row">
           <a href="Home.php" class="col-4 mx-auto button-menu draw-border">Accueil</a>
           <a href="Contact.php" class="col-4 mx-auto button-menu draw-border">Contact</a>
         </div>

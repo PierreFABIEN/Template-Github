@@ -1,0 +1,34 @@
+.contact-side-bar-header {
+
+  .contact-side-bar-header-menu {
+    .contact-side-bar-header--colonne {
+      .contact-side-bar-header--colonne---item {
+        text-align: center;
+        padding-top: 2vh;
+
+        img {
+          height: 7vh;
+        }
+
+        :hover {
+          text-decoration: none;
+        }
+      }
+
+
+
+    }
+  }
+}
+.contact-side-bar-header--colonne---logo {
+  margin-top: 5vh !important;
+}
+.contact-side-bar-header--colonne---titre{
+margin: 15px;
+text-align: center;
+}
+.contact-side-bar-header--colonne---logo----box a{
+    border: none !important;
+  }
+
+/*____________________________________________________________________________*/
