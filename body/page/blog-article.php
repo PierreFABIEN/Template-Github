@@ -1,5 +1,5 @@
-<div class="container-fluid blog-body">
-  <div class="row blog-body--colonne">
+<div id="gradient" class="container-fluid blog-article-body">
+  <div class="row blog-article-body--colonne">
 
 
     <!--___________________________________________________________________Header-->
@@ -11,10 +11,7 @@
     </div>
     <!--_______________________________________________________________fin Header-->
     <!--__________________________________________________________________CONTENT-->
-    <div class="col-12 col-md-9 blog-content">
-      <?php
-  include __DIR__.'/../component/blog-content.php';
-  ?>
+
         <!--________________________________________________________________//CONTENT-->
         <!--___________________________________________________________________FOOTER-->
         <?php

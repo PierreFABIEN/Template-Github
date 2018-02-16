@@ -16,7 +16,7 @@
 <!-- LINK NORMALIZE-->
 <link rel="stylesheet" href="asset/libs/css/normalize.min.css">
 <!-- LINK FONTAWESOME-->
-<link rel="stylesheet" href="asset/libs/css/fontawesome.css">
+<link href="https://use.fontawesome.com/releases/v5.0.6/css/all.css" rel="stylesheet">
 
 
 <!--____________________________________________________________________________FIN LINK CSS-->

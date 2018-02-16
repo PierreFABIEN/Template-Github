@@ -1,0 +1,21 @@
+.blog-body--colonne {}
+
+.blog-side-bar {
+  position: fixed !important;
+  height: 100vh;
+  background-color: $couleur;
+
+}
+@media screen and (max-width: 766px) {
+  .blog-side-bar {
+    position: relative !important;
+    height: auto;
+  }
+}
+.blog-content {
+  float: right !important;
+}
+
+.blog-body--colonne {
+  display: block !important;
+}

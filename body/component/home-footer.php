@@ -1,7 +1,13 @@
-<!--_________________________________________________________________FOOTER-->
+
 <div class="col-12 home-footer">
-  <div class="col-3 mx-auto home-footer-cgu">
-    <a class="btn" href="url">CGU</a>
+  <div class="row home-footer--colonne">
+
+  <div class="col-5 col-sm-3 mx-auto home-footer--colonne---cgu">
+    <a class="button" href="cgu.php">CGU</a>
   </div>
+  <div class="col-5 col-sm-3 mx-auto home-footer--colonne---cgu">
+    <a class="button" href="contact.php">Contact</a>
+  </div>
+
+    </div>
 </div>
-<!--_______________________________________________________________//FOOTER-->

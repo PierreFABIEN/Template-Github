@@ -9,18 +9,18 @@
           </div>
           <ul class="menu-content">
             <li>
-              <a href="#" class="fa fa-bookmark-o"></a>
+              <a href="blog-article.php" class="far fa-bookmark"></a>
             </li>
-            <li><a href="#" class="fa fa-heart-o"><span>18</span></a></li>
-            <li><a href="#" class="fa fa-comment-o"><span>3</span></a></li>
+            <li><a href="blog-article.php" class="far fa-heart"><span>18</span></a></li>
+            <li><a href="blog-article.php" class="far fa-comment"><span>3</span></a></li>
           </ul>
         </div>
         <div class="data">
           <div class="content">
             <span class="author">Jane Doe</span>
-            <h1 class="title"><a href="#">Stranger Things: The sound of the Upside Down</a></h1>
+            <h1 class="title"><a href="blog-article.php">Stranger Things:</a></h1>
             <p class="text">The antsy bingers of Netflix will eagerly anticipate the digital release of the Survive soundtrack, out today.</p>
-            <a href="#" class="button">Read more</a>
+            <a href="blog-article.php" class="button">Read more</a>
           </div>
         </div>
       </div>

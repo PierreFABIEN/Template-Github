@@ -40,6 +40,7 @@ sans-serif;
       display: inline-block;
     }
     a {
+      text-decoration: none !important;
       color: $white;
     }
     span {
@@ -54,7 +55,7 @@ sans-serif;
   }
   .wrapper {
     background-color: $white;
-    min-height: 400px;
+    min-height: 360px;
     position: relative;
     overflow: hidden;
     box-shadow: 0 19px 38px rgba($black, 0.3), 0 15px 12px rgba($black, 0.2);
@@ -68,8 +69,8 @@ sans-serif;
     position: absolute;
     bottom: 0;
     width: 100%;
-    transform: translateY(calc(70px + 1em));
-    transition: transform 0.3s;
+    transform: translateY(calc(70px + 2em));
+    transition: transform 0.8s;
     .content {
       padding: 1em;
       position: relative;
@@ -105,7 +106,7 @@ sans-serif;
     &:hover {
       .menu-content {
         span {
-          transform: translate(-50%, -10px);
+          transform: translate(-70%, -10px);
           opacity: 1;
         }
       }
@@ -156,12 +157,12 @@ sans-serif;
       position: absolute;
       right: 0;
       top: 50%;
-      transform: translate(0, -50%);
-      transition: all 0.3s;
+      transform: translate(0px -50%);
+      transition: all 0.8s;
     }
     &:hover {
       &::after {
-        transform: translate(5px, -50%);
+        transform: translate(5px, -80%);
         opacity: 1;
       }
     }
