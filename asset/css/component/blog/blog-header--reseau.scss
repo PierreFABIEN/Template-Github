@@ -1,39 +1,7 @@
-.blog-header {
-
-  .blog-header-menu {
-    .blog-header--colonne {
-      .blog-header--colonne---item {
-        text-align: center;
-        padding-top: 2vh;
-
-        img {
-          height: 7vh;
-        }
-
-        :hover {
-          text-decoration: none;
-        }
-      }
-
-
-
-    }
-  }
+.blog-side-bar-header-social{
+  padding-left: 5px !important;
+  padding-right: 5px !important;
 }
-.blog-header--colonne---logo {
-  margin-top: 5vh !important;
-}
-.blog-header--colonne---titre{
-margin: 15px;
-text-align: center;
-}
-.blog-header--colonne---logo----box a{
-    border: none !important;
-  }
-
-/*____________________________________________________________________________*/
-
-
 
   @import '//codepen.io/chrisdothtml/pen/ojLzJK.css';
   .social-btns .btn,
@@ -102,16 +70,17 @@ text-align: center;
     bottom: 0;
     left: 0;
     right: 0;
-    margin-top: 5vh;
+    margin-top: 1vh;
   }
+
   .social-btns .btn {
     border: none !important;
     display: inline-block;
     background-color: #fff;
-    width: 90px;
-    height: 90px;
-    line-height: 90px;
-    margin: 5px 10px;
+    width: 90%;
+    height: 90%;
+    line-height: 40px;
+    margin: 2px 2px;
     text-align: center;
     position: relative;
     overflow: hidden;

@@ -14,6 +14,10 @@ margin-left: 0px !important;
 margin-right: 0px !important;
 box-sizing: content-box !important;
 }
+.btn-primary{
+  display: block !important;
+  margin: 15px;
+}
 
 /*______________________________________________________________________________Variable:*/
 @import 'variable.scss';
@@ -38,11 +42,11 @@ box-sizing: content-box !important;
 
 
 /*______________________________________________________________________________Home:*/
-@import 'home/home.scss';
+@import 'page/home.scss';
 
-@import 'component/home-header.scss';
-@import 'component/home-content.scss';
-@import 'component/home-footer.scss';
+@import 'component/home/home-header.scss';
+@import 'component/home/home-content.scss';
+@import 'component/home/home-footer.scss';
 /*______________________________________________________________________________fin Home:*/
 
 
@@ -50,12 +54,13 @@ box-sizing: content-box !important;
 
 
 /*______________________________________________________________________________Blog:*/
-@import 'blog/blog.scss';
+@import 'page/blog.scss';
 
-@import 'component/blog-header.scss';
-@import 'component/blog-categorie.scss';
-@import 'component/blog-card.scss';
-@import 'component/blog-footer.scss';
+@import 'component/blog/blog-header.scss';
+@import 'component/blog/blog-header--reseau.scss';
+@import 'component/blog/blog-categorie.scss';
+@import 'component/blog/blog-card.scss';
+@import 'component/blog/blog-footer.scss';
 /*______________________________________________________________________________fin Blog:*/
 /*______________________________________________________________________________Blog:*/
 

@@ -4,3 +4,4 @@
     <a class="btn" href="url">CGU</a>
   </div>
 </div>
+  </div>

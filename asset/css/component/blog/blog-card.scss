@@ -19,7 +19,7 @@ sans-serif;
   }
 }
 
-.blog-card--colonne---titre{
+.blog-content-card--colonne---titre{
   text-align: center;
   font-size: 30px;
   margin-bottom: 2vh;
@@ -55,7 +55,7 @@ sans-serif;
   }
   .wrapper {
     background-color: $white;
-    min-height: 360px;
+    min-height: 335px;
     position: relative;
     overflow: hidden;
     box-shadow: 0 19px 38px rgba($black, 0.3), 0 15px 12px rgba($black, 0.2);
@@ -97,10 +97,10 @@ sans-serif;
 
 
 // Second example styles
-.blog-card--colonne---section{
+.blog-content-card--colonne---section{
   margin: 15px;
 }
-.blog-card--colonne---section----box-----card {
+.blog-content-card--colonne---section----box-----card {
   .wrapper {
     background: url(https://tvseriescritic.files.wordpress.com/2016/10/stranger-things-bicycle-lights-children.jpg) center / cover no-repeat;
     &:hover {
@@ -134,7 +134,7 @@ sans-serif;
   }
   .data {
     color: $white;
-    transform: translateY(calc(70px + 4em));
+    transform: translateY(calc(100px + 4em));
   }
   .title {
     a {
@@ -144,7 +144,7 @@ sans-serif;
   .button {
     display: block;
     width: 100px;
-    margin: 2em auto 1em;
+    margin: 4em auto 1em;
     text-align: center;
     font-size: 12px;
     color: $white;
