@@ -1,7 +1,7 @@
 <div class="col-12 col-md-9 blog-content">
   <div class="row blog-content-card--colonne">
     <div id="vedette" class="col-12 blog-content-card--colonne---titre">
-    <a href="blog-active-categorie"class="col-6 button-menu draw-border">Article en vedette</a>
+    <a href="Blog-categorie.php"class="col-6 button-menu draw-border">Article en vedette</a>
     </div>
 
     <div class="col-12 col-sm-4 blog-content-card--colonne---section">
@@ -31,7 +31,7 @@
 
   <div class="row blog-content-card--colonne">
     <div id="pluslus" class="col-12 blog-content-card--colonne---titre">
-    <a href="blog-active-categorie"class="col-6 button-menu draw-border">Nos article les plus lus</a>
+    <a href="Blog-categorie.php"class="col-6 button-menu draw-border">Nos article les plus lus</a>
     </div>
 
         <div class="col-12 col-sm-4 blog-content-card--colonne---section">
@@ -59,7 +59,7 @@
 
   <div class="row blog-content-card--colonne">
     <div id="top10" class="col-12 blog-content-card--colonne---titre">
-    <a href="blog-active-categorie"class="col-6 button-menu draw-border">Top 10</a>
+    <a href="Blog-categorie.php"class="col-6 button-menu draw-border">Top 10</a>
     </div>
 
 
