@@ -26,9 +26,9 @@
 
       <select class="col-10 mx-auto custom-select">
         <option selected>Catégories</option>
-        <option value="1">One</option>
-        <option value="2">Two</option>
-        <option value="3">Three</option>
+        <option value="1">Catégories 1</option>
+        <option value="2">Catégories 2</option>
+        <option value="3">Catégories 3</option>
       </select>
     </div>
 
@@ -37,19 +37,12 @@
 
 
     <div class="row blog-side-bar-header--menu">
-      <div class="col-12 blog-side-bar-header--menu---box">
-        <a href="#vedette" class="col-10 mx-auto button-menu draw-border">En vedette</a>
-      </div>
-      <div class="col-12 blog-side-bar-header--menu---box">
-        <a href="#pluslus" class="col-10 mx-auto button-menu draw-border">Articles les plus lus</a>
-      </div>
-      <div class="col-12 blog-side-bar-header--menu---box">
-        <a href="#top10" class="col-10 mx-auto button-menu draw-border">Top 10</a>
-      </div>
+
       <div class="col-12 blog-side-bar-header--menu---box">
         <div class="row blog-side-bar-header--menu---box----colonne">
-          <a href="Home.php" class="col-4 mx-auto button-menu draw-border">Accueil</a>
-          <a href="Contact.php" class="col-4 mx-auto button-menu draw-border">Contact</a>
+          <a href="Home.php" class="col-10 mx-auto button-menu draw-border">Accueil</a>
+          <a href="Contact.php" class="col-10 mx-auto button-menu draw-border">Contact</a>
+          <a href="cgu.php" class="col-10 mx-auto button-menu draw-border">CGU</a>
         </div>
 
       </div>

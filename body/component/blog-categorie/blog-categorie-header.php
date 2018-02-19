@@ -26,9 +26,9 @@
 
       <select class="col-10 mx-auto custom-select">
         <option selected>Catégories</option>
-        <option value="1">One</option>
-        <option value="2">Two</option>
-        <option value="3">Three</option>
+        <option value="1">Catégories 1</option>
+        <option value="2">Catégories 2</option>
+        <option value="3">Catégories 3</option>
       </select>
     </div>
 
@@ -48,11 +48,12 @@
       </div>
       <div class="col-12 blog-categorie-side-bar-header--menu---box">
         <div class="row blog-categorie-side-bar-header--menu---box----colonne">
-          <a href="Home.php" class="col-4 mx-auto button-menu draw-border">Accueil</a>
-          <a href="Contact.php" class="col-4 mx-auto button-menu draw-border">Contact</a>
+          <a href="Blog.php" class="col-3 mx-auto button-menu draw-border">Blog</a>
+          <a href="Home.php" class="col-3 mx-auto button-menu draw-border">Accueil</a>
+          <a href="Contact.php" class="col-3 mx-auto button-menu draw-border">Contact</a>
         </div>
-
       </div>
+
     </div>
 
 

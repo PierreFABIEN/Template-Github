@@ -9,7 +9,7 @@
         </div>
 
       </div>
-    
+
 
 
 
@@ -22,8 +22,9 @@
     <div class="row contact-side-bar-header--menu">
       <div class="col-12  contact-side-bar-header--menu---box">
         <div class="row contact-side-bar-header--menu---box----colonne">
-          <a href="Home.php" class="col-4 mx-auto button-menu draw-border">Accueil</a>
-          <a href="blog.php" class="col-4 mx-auto button-menu draw-border">Blog</a>
+          <a href="Home.php" class="col-10 mx-auto button-menu draw-border">Accueil</a>
+          <a href="blog.php" class="col-10 mx-auto button-menu draw-border">Blog</a>
+          <a href="cgu.php" class="col-10 mx-auto button-menu draw-border">CGU</a>
         </div>
 
       </div>

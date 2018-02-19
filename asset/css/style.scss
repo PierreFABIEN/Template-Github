@@ -31,6 +31,12 @@ box-sizing: content-box !important;
 @import 'component/boutton.scss';
 /*______________________________________________________________________________fin Boutton:*/
 
+/*______________________________________________________________________________Card:*/
+@import 'component/blog-content--card.scss';
+/*______________________________________________________________________________fin Card:*/
+
+
+
 
 
 
@@ -60,8 +66,6 @@ box-sizing: content-box !important;
 @import 'component/blog/blog-header--reseau.scss';
 @import 'component/blog/blog-categorie.scss';
 @import 'component/blog/blog-content.scss';
-@import 'component/blog/blog-content--card.scss';
-@import 'component/blog/blog-footer.scss';
 /*______________________________________________________________________________fin Blog:*/
 
 /*______________________________________________________________________________Contact:*/
@@ -70,8 +74,10 @@ box-sizing: content-box !important;
 
 /*______________________________________________________________________________Blog-categorie:*/
 @import 'component/Blog-categorie/blog-categorie-header.scss';
+@import 'component/Blog-categorie/blog-categorie-content.scss';
 /*______________________________________________________________________________fin Blog-categorie:*/
 
 /*______________________________________________________________________________Blog-article:*/
 @import 'component/Blog-article/blog-article-header.scss';
+@import 'component/Blog-article/blog-article-content.scss';
 /*______________________________________________________________________________fin Blog-article:*/

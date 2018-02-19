@@ -7,10 +7,6 @@
             <span class="month">Aug</span>
             <span class="year">2016</span>
           </div>
-          <ul class="menu-content">
-            <li><a href="blog-article.php" class="far fa-heart"><span>18</span></a></li>
-            <li><a href="blog-article.php" class="far fa-comment"><span>3</span></a></li>
-          </ul>
         </div>
         <div class="data">
           <div class="content">

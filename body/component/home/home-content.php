@@ -21,12 +21,21 @@
             <div class="modal-content">
               <!-- Modal Header -->
               <div class="modal-header">
-                <h4 class="modal-title">Modal Heading</h4>
+                <h4 class="modal-title">Nous pouvons vous aider!</h4>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
               </div>
               <!-- Modal body -->
               <div class="modal-body">
-                Modal body..
+                Si vous n'avez aucun article proposé pour votre recherche, grace au numero 118 001 nous pourrons vous mettre en relation avec l'interlocuteur que vous recherchez.
+<div class="row">
+                <div class="col-12 col-sm-12 blog-content-card--colonne---section">
+                  <div class="col-10 blog-content-card--colonne---section----box mx-auto">
+                    <?php
+              include __DIR__.'/../card.php';
+              ?>
+                  </div>
+                </div>
+                </div>
               </div>
 
               <!-- Modal footer -->
