@@ -51,5 +51,35 @@
   display: block !important;
 }
 .blog-content{
-  background-color: rgb(32, 32, 32);
+  background: linear-gradient(45deg, #0e0e0e 0%, #474747 100%);
+  background-size: 200% 200%;
+  height: 100%;
+  width: 100%;
+  -webkit-animation: background 6s ease infinite;
+          animation: background 6s ease infinite;
+
+
+@-webkit-keyframes background {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
+
+@keyframes background {
+  0% {
+    background-position: 0% 50%;
+  }
+  50% {
+    background-position: 100% 50%;
+  }
+  100% {
+    background-position: 0% 50%;
+  }
+}
 }
