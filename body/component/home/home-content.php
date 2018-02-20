@@ -1,4 +1,5 @@
 <div class="col-12 home-content">
+
   <div class="col-12 home-content-brand">
     <div class="row home-content-brand--colonne">
       <div class="col-12 home-content-brand--colonne---logo">
@@ -50,4 +51,5 @@
       </div>
     </div>
   </div>
+
 </div>

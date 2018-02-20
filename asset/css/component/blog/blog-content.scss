@@ -1,10 +1,14 @@
 .blog-content-card--colonne---titre{
   font-size: 35px;
   text-align: center;
+  color: white;
 }
 .carousel-control-next, .carousel-control-prev{
   width: 5% !important;
 }
 .carousel-inner {
-    padding-bottom: 80px !important;
+    padding-bottom: 120px !important;
   }
+.blog-content{
+  background-color: #171717;
+}

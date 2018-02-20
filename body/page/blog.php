@@ -1,4 +1,5 @@
 <div class="container-fluid blog-body">
+
   <div class="row blog-body--colonne">
 
 
@@ -20,4 +21,5 @@
 <!--________________________________________________________________//CONTENT-->
 
   </div>
+
 </div>
