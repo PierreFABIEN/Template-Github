@@ -9,7 +9,8 @@
       height: 25vh;
 
       img {
-        max-height: 25vh;
+        max-height: 35vh;
+        margin-top: 20vh;
       }
     }
 
@@ -35,10 +36,3 @@
   max-width: 700px !important;
 }
 /*___________________________________________________________________//CONTENT*/
-.modal-body--numero{
-  font-weight: bold;
-  font-size: 30px;
-}
-.modal-body{
-  text-align: center;
-}

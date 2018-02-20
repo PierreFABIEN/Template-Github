@@ -2,7 +2,7 @@
   <div class="col-12 blog-side-bar-header">
     <div class="row blog-side-bar-header--colonne">
       <div class="col-12 blog-side-bar-header--colonne---logo">
-        <div class="col-6 mx-auto blog-side-bar-header--colonne---logo----box">
+        <div class="col-11 mx-auto blog-side-bar-header--colonne---logo----box">
           <a href="home.php">
         <img class="rounded mx-auto d-block img-fluid" src="asset/img/logo.png" alt="logo">
           </a>
@@ -57,19 +57,31 @@
 
 
 
-    <div class="container mx-auto blog-side-bar-header-social social-btns">
-      <a class="col-3 btn facebook" href="#">
+
+      <div class="row mx-auto col-10 blog-side-bar-header-social social-btns">
+
+
+      <div class="col-3">
+        <a class="col-10 mx-auto btn facebook" href="#">
       <i class="fab fa-3x fa-facebook"></i>
     </a>
-      <a class="col-3 btn twitter" href="#">
+      </div>
+      <div class="col-3">
+        <a class="col-10 mx-auto btn twitter" href="#">
       <i class="fab fa-3x fa-twitter"></i>
     </a>
-      <a class="col-3 btn google" href="#">
+      </div>
+      <div class="col-3">
+        <a class="col-10 mx-auto btn google" href="#">
       <i class="fab fa-3x fa-google"></i>
     </a>
-      <a class="col-3 btn skype" href="#">
+      </div>
+      <div class="col-3">
+        <a class="col-10 mx-auto btn skype" href="#">
       <i class="fab fa-3x fa-skype"></i>
     </a>
+      </div>
+
     </div>
   </div>
 </div>

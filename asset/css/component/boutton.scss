@@ -66,7 +66,7 @@
 
 
   .draw-border {
-    @include boutton-border-drawing(#474747, #bea857, 2px, bottom, right);
+    @include boutton-border-drawing(#ffffff, #8eeeff, 2px, bottom, right);
   }
 
 
