@@ -20,5 +20,7 @@
 <!-- ___________________________________________________________________________JS Custom:-->
 <!-- LINK SCROLLMAGIC-->
 <script src="asset/js/scrollmagic.js" type="text/javascript"></script>
-<script src="asset/js/BodyGradient.js" type="text/javascript"></script>
+
+
+
 <!-- ___________________________________________________________________________JS Custom:-->

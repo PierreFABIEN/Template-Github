@@ -1,8 +1,10 @@
 .blog-content-card--colonne---titre{
   font-size: 35px;
-  margin-top: 7vh;
   text-align: center;
 }
 .carousel-control-next, .carousel-control-prev{
   width: 5% !important;
 }
+.carousel-inner {
+    padding-bottom: 80px !important;
+  }

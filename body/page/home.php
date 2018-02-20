@@ -1,4 +1,4 @@
-<div class="container-fluid home-body">
+<div class="container-fluid large-header home-body">
 
   <!--_________________________________________________________________Header-->
   <?php

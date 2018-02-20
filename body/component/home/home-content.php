@@ -21,12 +21,14 @@
             <div class="modal-content">
               <!-- Modal Header -->
               <div class="modal-header">
-                <h4 class="modal-title">Nous pouvons vous aider!</h4>
+                <h4 class="modal-title mx-auto">Nous pouvons vous aider!</h4>
                 <button type="button" class="close" data-dismiss="modal">&times;</button>
               </div>
               <!-- Modal body -->
               <div class="modal-body">
-                Si vous n'avez aucun article proposé pour votre recherche, grace au numero 118 001 nous pourrons vous mettre en relation avec l'interlocuteur que vous recherchez.
+                <p>Si vous n'avez aucun article proposé pour votre recherche, grace au numero:</p>
+                <p class="modal-body--numero">118 001</p>
+                <p>nous pourrons vous mettre en relation avec l'interlocuteur que vous recherchez.</p>
 <div class="row">
                 <div class="col-12 col-sm-12 blog-content-card--colonne---section">
                   <div class="col-10 blog-content-card--colonne---section----box mx-auto">
