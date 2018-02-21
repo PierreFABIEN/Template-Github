@@ -34,6 +34,9 @@ box-sizing: content-box !important;
 /*______________________________________________________________________________Card:*/
 @import 'component/blog-content--card.scss';
 /*______________________________________________________________________________fin Card:*/
+/*______________________________________________________________________________Card:*/
+@import 'component/side-bar.scss';
+/*______________________________________________________________________________fin Card:*/
 
 
 
@@ -79,3 +82,13 @@ box-sizing: content-box !important;
 @import 'component/Blog-article/blog-article-header.scss';
 @import 'component/Blog-article/blog-article-content.scss';
 /*______________________________________________________________________________fin Blog-article:*/
+
+
+/*______________________________________________________________________________Contact:*/
+@import 'page/contact.scss';
+/*______________________________________________________________________________fin Contact:*/
+/*______________________________________________________________________________Contact:*/
+@import 'page/cgu.scss';
+@import 'component/cgu/cgu-header.scss';
+@import 'component/cgu/cgu-content.scss';
+/*______________________________________________________________________________fin Contact:*/

@@ -1,9 +1,9 @@
-.blog-body--colonne {}
+.contact-body--colonne {}
 
-.blog-side-bar {
+.contact-side-bar {
   position: fixed !important;
   height: 100vh;
-  padding-bottom: 2vh !important;
+    padding-bottom: 2vh !important;
 
       background: linear-gradient(45deg, #83c8ff 0%, #1d4e6f 100%);
       background-size: 200% 200%;
@@ -39,22 +39,22 @@
 
 }
 @media screen and (max-width: 766px) {
-  .blog-side-bar {
+  .contact-side-bar {
     position: relative !important;
     height: auto;
   }
 }
-.blog-content {
+.contact-content {
   float: right !important;
 }
 
-.blog-body--colonne {
+.contact-body--colonne {
   display: block !important;
 }
-.blog-content{
+.contact-content{
   background: linear-gradient(45deg, #0e0e0e 0%, #474747 100%);
   background-size: 200% 200%;
-  height: 100%;
+  height: 100vh;
   width: 100%;
   -webkit-animation: background 6s ease infinite;
           animation: background 6s ease infinite;
@@ -83,4 +83,9 @@
     background-position: 0% 50%;
   }
 }
+}
+
+.contact-content--text{
+  color: white;
+  margin-top: 5vh;
 }

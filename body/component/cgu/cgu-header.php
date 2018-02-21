@@ -1,8 +1,8 @@
-<div class="col-12 col-md-3 contact-side-bar">
-  <div class="col-12 contact-side-bar-header">
-    <div class="row contact-side-bar-header--colonne">
-      <div class="col-12 contact-side-bar-header--colonne---logo">
-        <div class="col-6 mx-auto contact-side-bar-header--colonne---logo----box">
+<div class="col-12 col-md-3 cgu-side-bar">
+  <div class="col-12 cgu-side-bar-header">
+    <div class="row cgu-side-bar-header--colonne">
+      <div class="col-12 cgu-side-bar-header--colonne---logo">
+        <div class="col-6 mx-auto cgu-side-bar-header--colonne---logo----box">
           <a href="home.php">
         <img class="rounded mx-auto d-block img-fluid" src="asset/img/logo.png" alt="logo">
           </a>
@@ -19,9 +19,9 @@
 
 
 
-    <div class="row contact-side-bar-header--menu">
-      <div class="col-12  contact-side-bar-header--menu---box">
-        <div class="row contact-side-bar-header--menu---box----colonne">
+    <div class="row cgu-side-bar-header--menu">
+      <div class="col-12  cgu-side-bar-header--menu---box">
+        <div class="row cgu-side-bar-header--menu---box----colonne">
           <a href="Home.php" class="col-10 mx-auto button-menu draw-border">Accueil</a>
           <a href="blog.php" class="col-10 mx-auto button-menu draw-border">Blog</a>
           <a href="cgu.php" class="col-10 mx-auto button-menu draw-border">CGU</a>
@@ -65,6 +65,6 @@
 
   </div>
 
-  
+
   </div>
 </div>

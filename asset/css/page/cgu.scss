@@ -1,9 +1,9 @@
-.blog-body--colonne {}
+.cgu-body--colonne {}
 
-.blog-side-bar {
+.cgu-side-bar {
   position: fixed !important;
   height: 100vh;
-  padding-bottom: 2vh !important;
+    padding-bottom: 2vh !important;
 
       background: linear-gradient(45deg, #83c8ff 0%, #1d4e6f 100%);
       background-size: 200% 200%;
@@ -39,19 +39,19 @@
 
 }
 @media screen and (max-width: 766px) {
-  .blog-side-bar {
+  .cgu-side-bar {
     position: relative !important;
     height: auto;
   }
 }
-.blog-content {
+.cgu-content {
   float: right !important;
 }
 
-.blog-body--colonne {
+.cgu-body--colonne {
   display: block !important;
 }
-.blog-content{
+.cgu-content{
   background: linear-gradient(45deg, #0e0e0e 0%, #474747 100%);
   background-size: 200% 200%;
   height: 100%;

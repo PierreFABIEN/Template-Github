@@ -9,8 +9,8 @@
     background-size: 200% 200%;
     height: 100%;
     width: 100%;
-    -webkit-animation: background 6s ease infinite;
-            animation: background 6s ease infinite;
+    -webkit-animation: background 6s ease;
+            animation: background 6s ease;
   }
 
   @-webkit-keyframes background {
